@@ -1,2 +1,18 @@
-# hacktoberfest-hackathon-template
-Template for the Supabase Hacktoberfest Hackathon that follows https://hacktoberfest.digitalocean.com/resources/maintainers
+# My awesome Hacktoberfest Hackathon Project
+
+### Submission
+
+Submit your project via [https://www.madewithsupabase.com/hacktoberfest](https://www.madewithsupabase.com/hacktoberfest) 
+
+Fill in the following information:
+
+- link to hosted demo (if applicable)
+- list of team members github handles (and twitter if they have one)
+- any demo videos, instructions, or memes
+- a brief description of how you used Supabase:
+    - to store data?
+    - realtime?
+    - auth?
+    - storage?
+- any other info you want the judges to know (motivations/ideas/process)
+- *optional* team photo
